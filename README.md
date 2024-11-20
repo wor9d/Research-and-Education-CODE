@@ -10,3 +10,5 @@ GAN 파일은 COLAB 컴파일 환경에서 TPU로 구동하였고 CNN 파일은 
 만일 Python으로 구동하실 분은 GPU를 연결해서 쓰시길 바랍니다.
 
 Python GPU 연결하는 법 -> (https://lungfish.tistory.com/entry/%EB%94%A5%EB%9F%AC%EB%8B%9D-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-GPU-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+실험결과 해석은 보고서를 참고해주세요 보고서는 github에 첨부합니다.
